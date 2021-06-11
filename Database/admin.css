@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+}
+
+body{
+    background-color:rgb(206, 65, 65);
+    
+    
+} 
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px;
+    background-color:lightgrey;
+    border: 1px solid black
+}
+
+  /* products record  */
+.record {
+    display: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.record table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    border-radius: 30px;
+}
+ 
+.record thead tr {
+    background-color: #a34f4f;
+    color: #ffffff;
+    text-align: left;
+}
+.record th, .show-record td {
+    padding: 12px 15px;
+}
+.record td i{
+    color: black;
+    cursor: pointer;
+}
+.record tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
