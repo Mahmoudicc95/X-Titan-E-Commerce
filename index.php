@@ -16,21 +16,21 @@
   </ul>
   <div class="carousel-inner">
     <div class="carousel-item active" >
-      <img src="img/beverages.jpg" alt="Los Angeles" width="1000" height="200">
+      <img src="img/beverages.jpg" alt="#" width="1000" height="200">
       <div class="carousel-caption" id="beverage">
         <h1>X-Titan E-Commerce </h1>
         <p class="p1">Stay Home,Stay Safe</p>
       </div>
     </div>
     <div class="carousel-item"  >
-      <img src="img/shopping.jpg" alt="Chicago" width="1100" height="500">
+      <img src="img/shopping.jpg" alt="#" width="1100" height="500">
       <div class="carousel-caption" id="beverage">
         <h1>X-Titan E-Commerce</h1>
         <p class="p1">Members enjoy EXTRA!</p>
       </div>
     </div>
     <div class="carousel-item"  >
-      <img src="img/ecommerce.jpg" alt="New York" width="1100" height="500">
+      <img src="img/ecommerce.jpg" alt="#" width="1100" height="500">
       <div class="carousel-caption" id="beverage">
         <h1>X-Titan E-Commerce</h1>
         <p class="p1">LIMITED TIME VOUCHER</p>
